@@ -1,0 +1,4 @@
+﻿  Game.cpp
+c:\users\administrator\desktop\merry christmas 2048 version project\merry christmas 2048 version project\game.cpp(298): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+  Merry Christmas 2048 version Project.vcxproj -> C:\Users\Administrator\Desktop\Merry Christmas 2048 version Project\Debug\Merry Christmas 2048 version Project.exe
+  Merry Christmas 2048 version Project.vcxproj -> C:\Users\Administrator\Desktop\Merry Christmas 2048 version Project\Debug\Merry Christmas 2048 version Project.pdb (Partial PDB)

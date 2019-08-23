@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MerryChristmas2048versionProject.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Merry Christmas 2048 version Project.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="ResourceImages\0.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\1.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\2.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\3.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\4.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\5.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\6.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\7.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\8.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\9.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\10.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\11.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\12.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\13.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\14.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\15.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\16.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\17.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\18.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\19.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\20.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\21.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\22.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\23.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\24.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\25.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\26.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\27.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\28.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\29.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\30.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\31.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\32.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\33.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\34.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\35.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\36.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\37.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\38.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\39.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\40.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\41.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\42.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\43.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\44.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\45.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\46.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\47.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\Background.jpg">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="ResourceImages\ASwung.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="audio1.bin">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="audio2.bin">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="resourceimages\wave1.bin">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="ResourceAudios\Dub.wav">
+      <Filter>资源文件</Filter>
+    </Media>
+    <Media Include="ResourceAudios\We Wish You A Merry Christmas.wav">
+      <Filter>资源文件</Filter>
+    </Media>
+    <Media Include="ResourceAudios\斗地主输牌.wav">
+      <Filter>资源文件</Filter>
+    </Media>
+    <Media Include="ResourceAudios\魂斗罗开场(用作选定游戏模式).wav">
+      <Filter>资源文件</Filter>
+    </Media>
+    <Media Include="ResourceAudios\拳皇开始(ready go).wav">
+      <Filter>资源文件</Filter>
+    </Media>
+    <Media Include="ResourceAudios\胜利.wav">
+      <Filter>资源文件</Filter>
+    </Media>
+    <Media Include="ResourceAudios\失败.wav">
+      <Filter>资源文件</Filter>
+    </Media>
+    <Media Include="ResourceAudios\Ngẫu Hứng.wav">
+      <Filter>资源文件</Filter>
+    </Media>
+  </ItemGroup>
+</Project>
